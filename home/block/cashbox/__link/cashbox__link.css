@@ -1,0 +1,13 @@
+.cashbox__link {
+    color: chartreuse;
+    text-align: center;
+    font-family: Metal Mania;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform:uppercase;
+
+    display: flex;
+    justify-content: center;
+}

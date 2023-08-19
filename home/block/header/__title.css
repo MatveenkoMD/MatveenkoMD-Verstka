@@ -1,0 +1,14 @@
+.header__title {
+    display: flex;
+    /* width: 757px;
+    height: 183px; */
+    flex-direction: column;
+    justify-content: flex-end;
+
+    color: #7E0000;
+    font-family: Metal Mania;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

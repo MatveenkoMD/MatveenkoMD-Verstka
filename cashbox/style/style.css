@@ -1,0 +1,10 @@
+.body {
+    background-color: #041855;
+
+}
+.page {
+    max-width: 1280;
+    min-width: 320px;
+    top: 16px;
+    left: 16px;
+}

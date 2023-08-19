@@ -1,0 +1,13 @@
+@import url("../style/style.css");
+
+@import url("../block/header/header.css");
+@import url("../block/header/__logo.css");
+@import url("../block/header/__title.css");
+
+@import url("../block/intro/intro.css");
+@import url("../block/intro/__title/intro__title.css");
+@import url("../block/intro/__img-red/intro__img-red.css");
+@import url("../block/intro/__subtitle/intro__subtitle.css");
+@import url("../block/intro/__text/intro__text.css");
+
+@import url("../block/footer/footer.css");

@@ -1,0 +1,5 @@
+.header__logo {
+    background-image: url('/home/img/__header/__logo.jpg');
+    width: 200px;
+    height: 200px;
+}
